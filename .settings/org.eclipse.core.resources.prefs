@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/QuanLySinhVien/AdminController/SinhVienController.java=UTF-8
+encoding//src/main/java/QuanLySinhVien/Entity/AdminAccount.java=UTF-8
+encoding//src/main/java/QuanLySinhVien/Entity/SinhVien.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/EditSinhVien.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/addSinhVien.jsp=UTF-8
